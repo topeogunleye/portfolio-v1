@@ -7,4 +7,4 @@ The first version of my portfolio website. I built it in 2019 following Christin
 - Uses plain HTML/CSS
 - No use of javascript
 
-[live demo](https://temi.dev/index.html)
+[live demo](https://topev1.netlify.app/)
